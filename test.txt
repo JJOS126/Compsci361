@@ -1,5 +1,5 @@
-A,B,C,D,F,G,H\n
-A,B,C,D\n
-A,B,C,D\n
-A,B,D\n
-B,C,E\n
+A,B,C,D,F,G,H
+A,B,C,D
+A,B,C,D
+A,B,D
+B,C,E
